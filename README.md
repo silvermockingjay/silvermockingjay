@@ -19,7 +19,7 @@ I’m eager to keep learning and growing within a collaborative, professional te
 - Agile & Jira
 
 ## ⚡ My Projects
-🌱 [Red Panda Pet shop]()
+🌱 [Red Panda Pet shop](https://github.com/silvermockingjay/eCommerce_RS_School/tree/develop)
 
 TypeScript, HTML5, CSS3, Vite, REST API, ESLint, Prettier, Husky
 
