@@ -5,23 +5,29 @@ I’m a motivated frontend developer passionate about creating meaningful digita
 I’m eager to keep learning and growing within a collaborative, professional tech environment.
 
 ## ⚡My Skills
-- JavaScript
+- React
+- Redux
+- RTK Query
 - TypeScript
+- JavaScript
 - HTML5
 - CSS3
 - Webpack & Vite
+- Vitest
+- React testing library
+- NPM
 - ESLint & Prettier & Husky
-- Node.js
-- REST API
-- Python
-- SQLite
 - GIT
 - Agile & Jira
 
 ## ⚡ My Projects
-🌱 [Red Panda Pet shop](https://github.com/silvermockingjay/eCommerce_RS_School/tree/develop)
+🌱 [Rick and Morty characters search](https://github.com/silvermockingjay/react-projects/tree/api-queries)
 
-TypeScript, HTML5, CSS3, Vite, REST API, ESLint, Prettier, Husky
+React, TypeScript, React Router, Redux Toolkit & React-Redux, Vite, ESLint, Prettier, Husky, Vitest, React Testing Library
+
+🌱 [React Forms](https://github.com/silvermockingjay/react-projects/tree/forms)
+
+React, TypeScript, Redux Toolkit & React-Redux, React Hook Form, Yup, Vite, ESLint, Prettier, Husky
 
 🌱 [Async race](https://github.com/silvermockingjay/my-projects/tree/async-race?tab=readme-ov-file)
 
