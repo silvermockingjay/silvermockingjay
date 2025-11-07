@@ -9,21 +9,30 @@ I’m eager to keep learning and growing within a collaborative, professional te
 - Redux
 - RTK Query
 - TypeScript
-- JavaScript
-- HTML5
-- CSS3
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Sass
+- CSS Modules
+- React Hook Form
+- Yup
+- i18next / react-i18next
 - Webpack & Vite
 - Vitest
 - React testing library
 - NPM
 - ESLint & Prettier & Husky
 - GIT
-- Agile & Jira
+- Agile (Scrum)
+- Jira
 
 ## ⚡ My Projects
+🌱 [REST Client App](https://github.com/silvermockingjay/rest-client-app/pull/1)
+
+React 19, React Router 7, TypeScript, Vite, Supabase, TanStack React Query, Zustand, Axios, i18next / react-i18next, Yup, Sass, ESLint, Prettier, Vitest, React Testing Library, MSW
+
 🌱 [Rick and Morty characters search](https://github.com/silvermockingjay/react-projects/tree/api-queries)
 
-React, TypeScript, React Router, Redux Toolkit & React-Redux, Vite, ESLint, Prettier, Husky, Vitest, React Testing Library
+React, TypeScript, React Router, Redux Toolkit & React-Redux, Vite, CSS Modules, ESLint, Prettier, Husky, Vitest, React Testing Library
 
 🌱 [React Forms](https://github.com/silvermockingjay/react-projects/tree/forms)
 
