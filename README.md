@@ -26,6 +26,10 @@ I’m eager to keep learning and growing within a collaborative, professional te
 - Jira
 
 ## ⚡ My Projects
+🌱 [Invity App](https://github.com/silvermockingjay/postcard/tree/develop)
+
+React, TypeScript, React Router, Supabase, Zod, Tailwind, ESLint, Prettier
+
 🌱 [REST Client App](https://github.com/silvermockingjay/rest-client-app/pull/1)
 
 React 19, React Router 7, TypeScript, Vite, Supabase, TanStack React Query, Zustand, Axios, i18next / react-i18next, Yup, Sass, ESLint, Prettier, Vitest, React Testing Library, MSW
